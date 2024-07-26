@@ -1,5 +1,0 @@
-# 大纲
-
-## testcontaners
-
-## junit5
